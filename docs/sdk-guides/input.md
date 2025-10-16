@@ -50,3 +50,5 @@ With `my_contract` the contract in question using `ethers` it is possible to cal
 ```js
 my_contract.add(ciphertexts.handles[0], ciphertexts.handles[1], ciphertexts.inputProof);
 ```
+
+<!-- Auto-update: 2025-10-16T13:42:43.812744 -->
